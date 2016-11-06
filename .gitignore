@@ -59,6 +59,6 @@ crashlytics-build.properties
 fabric.properties
 
 
-.gitignore
-/.idea
+/.gitignore
+.idea/
 *.iml
